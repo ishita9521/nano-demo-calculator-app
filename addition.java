@@ -4,5 +4,6 @@ public class addition {
         int add = 0;
         add = a + b;
         System.out.println(add);
+        System.out.println("Addition");
     }
 }
